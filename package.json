@@ -1,0 +1,11 @@
+{
+  "name": "graphql_server",
+  "version": "0.0.1",
+  "description": "graphql_server",
+  "main": "index.js",
+  "author": "Matias Dominguez Alonso",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./index.js"
+  }
+}
