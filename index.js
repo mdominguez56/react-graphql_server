@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const { ApolloServer } = require("apollo-server");
-const typeDefs = require("./gql/schemas");
+const typeDefs = require("./gql/schema");
 const resolvers = require("./gql/resolver");
 require("dotenv").config({ path: ".env" });
 
